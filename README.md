@@ -33,7 +33,18 @@ Here are some selected data analytics projects, along with the tools and methods
 
 
 
-### Project 2 - F1 Safety Regulations And Performance 
+### Project 2 - Loan Acceptance Prediction Model
+![image](https://github.com/user-attachments/assets/ff409529-db8d-4a9e-944e-58e07191a8db)
+- **Project details and Code**: https://github.com/Laruline/2024_Loan_Acceptance_Prediction_ML/tree/main
+- **Goal**: Use machine-learning to predict loan acceptance for a bank.
+- **Description**: The dataset contains 13 columns of public data about loans details and status. The project steps include: API connection to kaggle, jupyter notebook connection, data cleaning, data pre-processing, data visualization, Train-Test Split, model and fitting, testing (accuracy, precision, recall, f1), fine-tuning.
+- **Skills**: Data cleaning, data pre-processing, data visualization, machine learning.
+- **Technology**: Jupyter Notebook, Python, Pandas, Numpy, Matplotlib, Seaborn, Missingo, Scikit-Learn, Random Forest, GridSearchCV, Feature Importance.
+- **Results**: Approved loans are predicted at 92%, while rejected loans are predicted at 72%. A high recall has been favoured here to avoid losing potential "good" clients with a risk of having a few "bad" clients being approved instead of rejected. the fine-tuning is subjective and highly dependant on business' requieries and wishes.
+
+
+
+### Project 3 - F1 Safety Regulations And Performance 
 ![image](https://github.com/user-attachments/assets/3060a5d0-395e-41fd-959e-a171dbafc5b2)
 - **Project Details and Code**: (https://github.com/Laruline/2024_F1_SafetyRegulations_Jupyter_Pandas/tree/main)
 - **Goal**: Provide a detailed analysis of F1 new regulations impact on safety and car performance over the years from 1990 to 2023.
@@ -41,16 +52,6 @@ Here are some selected data analytics projects, along with the tools and methods
 - **Skills**: Data cleaning, data modeling, data processing, data visualizations.
 - **Technology**: Jupyter Notebook, Python, Pandas, Numpy, Matplotlib, Seaborn.
 - **Results**: New regulations on aerodynamics are the most dangerous, mostly likely to change of behaviour on the car and unexpected side-effects. As such, 100% of fatalities happened on a year with new aerodynamics regulations, even though these changes only account for 44% of new regulations. However, new regulations in general seem to have greatly improved the risk of fatal accidents and with fatalities diminishing steadily over the years and plateauing at 0 for the past 7 years. New regulations on aerodynamics don't seem to have improved car performance before the arrival of DRS, and the continuous increase in car weight  was slowly impacting performance negatively as well. The arrival of DRS transformed the cars' ability to overtake, which averages at 110% more than before DRS. It helped counter the increase in weight. Recent efforts in aerodynamics regulation seem to have taken advantage of DRS and increasing car weight while keeping fatalities at bay, showcasing rapidly increasing ability to overtake.
-
-
-
-### Project 3: [Project Title]
-- **Code**: [Link to Code or Notebook]
-- **Goal**: [Brief description of project goal]
-- **Description**: This project used [data source, key analysis steps, and techniques used].
-- **Skills**: data cleaning, data analysis, data visualization, [other skills]
-- **Technology**: R, Tidyverse, [other libraries or tools]
-- **Results**: [Summary of findings or insights]
 
 
 ---
