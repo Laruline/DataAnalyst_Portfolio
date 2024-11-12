@@ -1,9 +1,11 @@
 # Lauréline Colliard - Data Analyst Portfolio
 
 ## About
-Hello! I'm Lauréline, with a background in 3d animation and tech rigging, and currently pursuing a data analyst career. I am passionate about leveraging data to extract meaningful insights and solve real-world problems. Through my studies and hands-on projects, I've developed strong skills in data analysis, statistical methods, and visualization.
+Hi, I'm Lauréline! With a background in 3D animation and technical rigging, I've always been passionate about problem-solving and technology. Now, I'm diving into the world of data analytics, bringing a creative and structured approach to data. I leverage my knowledge of visual storytelling and technical rigor to turn complex data into actionable insights. Whether it's building dashboards or predictive models, I'm dedicated to helping businesses make data-driven decisions.
 
-This portfolio is a space to showcase my skills, share selected projects, and track my journey in data analytics and data science.
+On this journey, I’ve developed a strong foundation in data cleaning, analysis, and machine learning. My projects showcase my skills in transforming raw data into powerful visualizations and predictive insights that drive real-world business outcomes.
+
+Check out my portfolio and get in touch to collaborate on future projects!
 
 [Download My Resume (PDF)](link-to-your-resume.pdf)
 
