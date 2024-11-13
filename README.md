@@ -7,13 +7,11 @@ On this journey, I’ve developed a strong foundation in data cleaning, analysis
 
 Check out my portfolio and get in touch to collaborate on future projects!
 
-[Download My Resume (PDF)](link-to-your-resume.pdf)
-
 ---
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Projects](#projects)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
