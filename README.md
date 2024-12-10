@@ -1,4 +1,4 @@
-# Lauréline Colliard - Data Analyst Portfolio
+# Lauréline Colliard - Data Projects
 
 ## About
 Hi, I'm Lauréline! With a background in 3D animation, technical rigging and project management, I've always been passionate about problem-solving and technology. As a project, I've decided to improve my data technical knowledge !
